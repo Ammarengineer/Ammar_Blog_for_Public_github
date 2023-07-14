@@ -65,8 +65,8 @@ class APIClient:
 
 first_client = APIClient(
     user_name='user1',
-    user_email='aaaaengineer7777@gmail.com',
-    user_password='ammar14863456',
+    user_email='email',
+    user_password='password',
     auth_url=client_url.auth_url,
     )
 
