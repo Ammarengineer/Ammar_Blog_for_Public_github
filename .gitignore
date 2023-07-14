@@ -1,0 +1,29 @@
+back_end/ammar_blog_backend/db.sqlite3
+back_end/ammar_blog_backend/uploads/
+back_end/Ammar_Blog_env
+
+
+# Logs
+front_end/react_js_app/Ammar_Blog_front_end/logs
+front_end/react_js_app/Ammar_Blog_front_end/*.log
+front_end/react_js_app/Ammar_Blog_front_end/npm-debug.log*
+front_end/react_js_app/Ammar_Blog_front_end/yarn-debug.log*
+front_end/react_js_app/Ammar_Blog_front_end/yarn-error.log*
+front_end/react_js_app/Ammar_Blog_front_end/pnpm-debug.log*
+front_end/react_js_app/Ammar_Blog_front_end/lerna-debug.log*
+
+front_end/react_js_app/Ammar_Blog_front_end/node_modules
+front_end/react_js_app/Ammar_Blog_front_end/dist
+front_end/react_js_app/Ammar_Blog_front_end/dist-ssr
+front_end/react_js_app/Ammar_Blog_front_end/*.local
+
+# Editor directories and files
+front_end/react_js_app/Ammar_Blog_front_end/.vscode/*
+front_end/react_js_app/Ammar_Blog_front_end/!.vscode/extensions.json
+front_end/react_js_app/Ammar_Blog_front_end/.idea
+front_end/react_js_app/Ammar_Blog_front_end/.DS_Store
+front_end/react_js_app/Ammar_Blog_front_end/*.suo
+front_end/react_js_app/Ammar_Blog_front_end/*.ntvs*
+front_end/react_js_app/Ammar_Blog_front_end/*.njsproj
+front_end/react_js_app/Ammar_Blog_front_end/*.sln
+front_end/react_js_app/Ammar_Blog_front_end/*.sw?
